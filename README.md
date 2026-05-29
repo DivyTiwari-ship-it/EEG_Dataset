@@ -29,9 +29,9 @@ using machine learning.
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-red)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-orange)
-
+![SciPy](https://img.shields.io/badge/SciPy-purple)
+![Pandas](https://img.shields.io/badge/Pandas-blue)
 ## Installation
 ```bash
 pip install xgboost scikit-learn pandas numpy scipy
